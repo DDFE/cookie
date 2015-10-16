@@ -1,6 +1,6 @@
 {
   "name": "cookie",
-  "version": "0.0.1",
-  "main": "cookie",
+  "version": "0.0.2",
+  "main": "cookie.js",
   "description": "Cookie"
 }
